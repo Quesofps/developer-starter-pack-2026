@@ -4,7 +4,7 @@
 # 🚀 Developer Starter Pack 2026
 
 Everything a developer needs in 2026.
-
+ 
 Free tools • AI resources • Roadmaps • Project ideas • Platforms
 
 > ⚡ Beginner-friendly • Student-approved • Updated regularly
