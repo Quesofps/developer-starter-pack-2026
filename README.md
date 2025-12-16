@@ -10,7 +10,7 @@ Free tools • AI resources • Roadmaps • Project ideas • Platforms
 > ⚡ Beginner-friendly • Student-approved • Updated regularly
 
 ---
-
+ 
 ## 📌 What is this?
 
 This repository is a **curated collection of the best tools, resources, and platforms** every developer should know in 2026.
